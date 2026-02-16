@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My Name Is Gerry,im student it Sanata dharma University majoring in informatic,I really" like learning new things,I am implementing AI in physical form
 
 <!--
 **GabrielWale/GabrielWale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
